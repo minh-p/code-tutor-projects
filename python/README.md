@@ -1,11 +1,12 @@
 # Instructions
-Instructions for this project is located at https://vhmp.dev/programming/teaching/replit-py/snake/.
-It's essentially a simple snake game that first focuses on the model (logic) of a snake game before using PyGame
-as the frontend.
+In here are all of the Python projects I created for teaching at my coding tutor workplace.
 
 Unless you're using NixOS, you can ignore the files:
 - [flake.nix](./flake.nix)
 - [flake.lock](./flake.lock)
 - [.envrc](./.envrc)
 
-If you're using Replit, be sure to have PyGame and PyTest installed in [replit.nix](./replit.nix).
+If you're using Replit, you should add the [replit.nix](./replit.nix) file to the root of your Replit project.
+
+Some projects I have in here currently are:
+1. [snake](./snake)
